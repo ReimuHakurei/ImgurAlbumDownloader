@@ -1,0 +1,8 @@
+Imgur application info:
+
+Client ID: 6b33eb78c24c603
+Client secret: 8fe03981af0070a51a1f4bd42b0bd9dabdc39029
+
+Only registered this because Imgur is dumb and requires you register an app
+  just for read-only requests. Feel free to steal these creds for your own
+  projects.
